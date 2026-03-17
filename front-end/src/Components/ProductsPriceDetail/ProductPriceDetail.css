@@ -1,0 +1,28 @@
+.product-detail-container{
+    width: 100%;
+    height: fit-content;
+    background-color: #2A2939;
+    border-radius: 50px;
+}
+
+.product-detail-container .price-detail-wrapper{
+    padding: 33px;
+    text-align: left;
+}
+
+
+.product-quanity-picker{
+    display: flex;
+    align-items: center;
+    height: 20px;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.product-quanity-picker button{
+    height: 30px;
+    font-size: 9px;
+    text-align: center;
+}
+
+

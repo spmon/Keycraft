@@ -1,0 +1,21 @@
+.card-container{
+    width: 250px;
+    height: 250px;
+    border-radius: 50px;
+    background-color: #2A2939;
+    padding: 3cap;
+}
+
+.card-container img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.card-container h4{
+    font-size: 20px;
+}
+
+.card-container p{
+    font-size: 14px;
+}

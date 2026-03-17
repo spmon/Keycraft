@@ -1,0 +1,19 @@
+.spec-box-container{
+    margin-top: 50px;
+    width: 100%;
+    height: fit-content;
+    background-color: #2A2939;
+    border-radius: 50px;
+}
+
+.spec-box-container .spec-box-wrapper{
+    padding: 40px;
+}
+
+.spec-box-wrapper .spec-row{
+    height: fit-content;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-bottom: 2px solid white;
+}

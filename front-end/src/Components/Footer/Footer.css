@@ -1,0 +1,31 @@
+.footer{
+    background:#2A2939;
+    padding: 30px 0px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.footer-content{
+    width:100%;
+    margin:1% 0%;
+    padding:0.6% 0%;
+    color:gray;
+    font-size:0.8em;
+}
+
+.footer .footer-content a{
+    text-decoration:none;
+    color:gray;
+    transition:0.5s;
+}
+
+.footer .footer-content a:hover{
+    color: white;
+}
+
+.footer .footer-content li{
+    display: inline-block;
+    margin: 0px 30px;
+}
+

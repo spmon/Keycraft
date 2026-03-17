@@ -1,0 +1,13 @@
+.small-image-preview{
+    width: 165px;
+    height: 90px;   
+    flex-grow: 0;
+    flex-shrink: 0;
+}
+
+.small-image-preview img{
+    width: 165px;
+    height: 100px;
+    border-radius: 15px;
+    object-fit: cover;
+}
